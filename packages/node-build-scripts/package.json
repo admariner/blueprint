@@ -26,7 +26,7 @@
         "path": "^0.12.7",
         "postcss": "^8.4.17",
         "postcss-cli": "^9.1.0",
-        "postcss-discard-comments": "^5.1.1",
+        "postcss-discard-comments": "^5.1.2",
         "postcss-scss": "^4.0.3",
         "prettier": "~2.7.1",
         "sass": "^1.55.0",

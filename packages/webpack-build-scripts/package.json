@@ -8,7 +8,7 @@
     "dependencies": {
         "@pmmmwh/react-refresh-webpack-plugin": "^0.5.7",
         "assert": "^2.0.0",
-        "autoprefixer": "^10.4.4",
+        "autoprefixer": "^10.4.12",
         "css-loader": "^6.7.1",
         "cssnano": "^5.1.5",
         "fork-ts-checker-notifier-webpack-plugin": "^6.0.0",

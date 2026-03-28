@@ -50,7 +50,7 @@
         "@types/chai": "^5.0.0",
         "@vitejs/plugin-react": "catalog:",
         "@vitest/coverage-v8": "catalog:",
-        "chai": "^5.0.0",
+        "chai": "^6.2.2",
         "enzyme": "catalog:",
         "jsdom": "catalog:",
         "vitest": "catalog:"

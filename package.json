@@ -60,7 +60,7 @@
         "octokit": "^5.0.5",
         "prettier": "^3.6.2",
         "sinon": "^17.0.1",
-        "stylelint": "~16.25.0",
+        "stylelint": "~17.14.0",
         "stylelint-config-palantir": "^7.6.0",
         "stylelint-scss": "^6.12.1",
         "typescript": "~5.9.3",
